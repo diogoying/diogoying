@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @diogoying
+- 👀 Discord: S1ty#8632
+- 🌱 I’m currently learning node.js and js.
