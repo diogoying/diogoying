@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @diogoying
-- 👀 Discord: 
-- 🌱 I’m currently learning node.js and js.
+/
